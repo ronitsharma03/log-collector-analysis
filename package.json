@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "csv-writer": "^1.6.0",
-    "mongoose": "^8.9.2"
+    "mongoose": "^8.9.5"
   }
 }
